@@ -1,0 +1,38 @@
+* {
+    background-color: black;
+}
+
+header h1 {
+    color: white;
+}
+
+
+
+#media {
+    position: relative;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+ }
+
+body h2 {
+    color: aliceblue;
+}
+
+body p {
+    color: grey;
+}
+
+body a {
+    color: rgb(124, 255, 189)
+}
+
+footer {
+    color: grey;
+    float: right;
+}
